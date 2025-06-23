@@ -1,2 +1,3 @@
-# algo-journal
-algo-record
+# 📖 algo-journal
+
+> 📚 我的算法与数据结构学习笔记，记录过程。便于后续查找复习
